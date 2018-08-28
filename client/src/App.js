@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import AddNumbers from './components/AddNumbers/AddNumbers';
-// ngrok http 8080 -host-header="localhost:8080"
+//// ngrok http 8080 -host-header="localhost:8080"
 
 class App extends Component {
   state = {players: []}
